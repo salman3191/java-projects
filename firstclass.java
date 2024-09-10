@@ -7,35 +7,21 @@ class firstclass{
        
         // int a=SC.nextInt();
         // int b=SC.nextInt();
-        int a=3,b=9;
-        // int sum=a+b;
-        // addidtion
-        System.out.println("a+b =" + (a+b));
+        int a=9,b=8;
+        //  And ooperator
+        System.out.println("a&b = " + (a & b));
 
-        // subtraction
-        System.out.println("a-b =" + (a-b));
-
-        // multiplication
-        System.out.println("a*b =" + (a*b));
-
-        // modulator operator
-        System.out.println("a%b =" + (a%b));
-
-        // divison
-        System.out.println("a/b =" + (a/b));
+        //  or operator
+        System.out.println("a | b = " + (a | b));
         
-        // incement operator
-        System.out.println("a++ =" + (a++));
+        // not operator
+        System.out.println("~b = " + (~b));
 
-        // += operator
-        System.out.println("a+=b =" + (a+=b));
+        // short x = 130;
+        // System.out.println(x);
 
-        //  -= operaotr
-        System.out.println("a-=b =" + (a-=b));
 
-        // decrement operator
-
-        System.out.println("a-- =" + (a--));
+       
 
     }
     }
